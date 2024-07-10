@@ -73,7 +73,7 @@ const resetGame = () => {
     ["", "", ""],
     ["", "", ""],
   ];
-  player.value = "x";
+  player.value = "X";
 };
 </script>
 <style scoped></style>
